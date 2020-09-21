@@ -9,4 +9,4 @@
  
  Le problème c'est comment représenter tout ça ? Une idée est d'utiliser le plus petit élément du système de comptage ici le trait. 
 
-Une idée serait de regrouper les traits d'une manière qui les rendraient facile à compter tout en n'ayant besoin d'un nombre réduit de traits. Sachant que lorsque l'on abaisse tous les lors du comptage de traits, on passe au symbole "traits barré" on peut dire que juste avant d'abaisser le dernier doigt. On peut dire qu'au lieu de transformer 
+Une idée serait de regrouper les traits d'une manière qui les rendraient facile à compter tout en n'ayant besoin d'un nombre réduit de traits. Sachant que lorsque l'on abaisse tous les lors du comptage de traits, on passe au symbole "traits barré" on peut dire que juste avant d'abaisser le dernier doigt. On peut dire qu'au lieu de transformer le groupe de traits en "traits barrés" on pourrait juste faire une marque à gauche du groupe de traits et supprimer celui-ci.   
